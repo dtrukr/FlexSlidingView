@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 skywind. All rights reserved.
 //
 
-#import "FlexibleSlidingView/FSVSandwichView.h"
+#import "FSVSandwichView.h"
 
 #pragma mark - Implementation
 @implementation FSVSandwichView

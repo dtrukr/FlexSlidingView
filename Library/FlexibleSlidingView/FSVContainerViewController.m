@@ -6,10 +6,10 @@
 //  Copyright (c) 2015 skywind. All rights reserved.
 //
 
-#import "FlexibleSlidingView/FSVDimension.h"
-#import "FlexibleSlidingView/FSVRelativePositioning.h"
-#import "FlexibleSlidingView/FSVSandwichView.h"
-#import "FlexibleSlidingView/FSVContainerViewController.h"
+#import "FSVDimension.h"
+#import "FSVRelativePositioning.h"
+#import "FSVSandwichView.h"
+#import "FSVContainerViewController.h"
 
 #pragma mark Class extensions
 @interface FSVContainerViewController ()

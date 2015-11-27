@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 skywind. All rights reserved.
 //
 
-#import "FlexibleSlidingView/FSVDimension.h"
+#import "FSVDimension.h"
 
 #pragma mark Implementation
 @implementation FSVDimension

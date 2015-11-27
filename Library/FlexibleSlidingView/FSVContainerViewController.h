@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "FlexibleSlidingView/FSVSlidingStyle.h"
+#import "FSVSlidingStyle.h"
 
 @class FSVDimension;
 
